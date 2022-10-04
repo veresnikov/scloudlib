@@ -3,8 +3,8 @@ package server
 import (
 	"net"
 
-	log "github.com/CuriosityMusicStreaming/ComponentsPool/pkg/app/logger"
 	"github.com/pkg/errors"
+	log "github.com/veresnikov/scloudlib/pkg/app/logger"
 	"google.golang.org/grpc"
 )
 

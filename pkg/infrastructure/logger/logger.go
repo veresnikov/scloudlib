@@ -3,8 +3,8 @@ package logger
 import (
 	"time"
 
-	log "github.com/CuriosityMusicStreaming/ComponentsPool/pkg/app/logger"
 	"github.com/sirupsen/logrus"
+	log "github.com/veresnikov/scloudlib/pkg/app/logger"
 )
 
 const appNameKey = "app_name"
